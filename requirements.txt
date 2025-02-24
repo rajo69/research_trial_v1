@@ -1,0 +1,7 @@
+crewai
+crewai_tools
+langchain_google_genai
+streamlit
+pandas
+nest_asyncio
+pydantic
