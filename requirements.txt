@@ -5,3 +5,4 @@ streamlit
 pandas
 nest_asyncio
 pydantic
+pysqlite3-binary
