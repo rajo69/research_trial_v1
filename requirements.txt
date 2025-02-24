@@ -2,6 +2,7 @@ crewai
 crewai_tools
 langchain_google_genai
 streamlit
+firebase_admin
 pandas
 nest_asyncio
 pydantic
