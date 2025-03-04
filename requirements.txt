@@ -1,9 +1,9 @@
-crewai
-crewai_tools
-langchain_google_genai
-streamlit
-firebase_admin
-pandas
-nest_asyncio
-pydantic
+crewai==0.30.11
+crewai_tools==0.2.6
+langchain_google_genai==1.0.4\
+streamlit==1.42.1
+firebase_admin==6.6.0
+pandas==2.2.3
+nest_asyncio==1.6.0
+pydantic==2.10.6
 pysqlite3-binary
