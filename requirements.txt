@@ -1,7 +1,7 @@
 crewai==0.30.11
 crewai_tools==0.2.6
-langchain_google_genai==1.0.4\
-streamlit
+langchain_google_genai==1.0.4
+streamlit==1.42.1
 firebase_admin==6.6.0
 pandas==2.2.3
 nest_asyncio==1.6.0
